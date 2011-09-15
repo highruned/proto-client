@@ -1,0 +1,19 @@
+{
+	"name": "proto-client",
+	"description": "Community-driven Google Protobuf game client.",
+	"version": "0.0.1",
+	"homepage": "http://github.com/codeweaver/proto-client",
+	"repository": {
+		"url": "http://github.com/codeweaver/proto-client"
+	},
+	"dependencies": {
+	},
+	"author": "Codeweaver <code@weaver.com> (http://code.weaver.com/)",
+	"main": "index",
+	"engines": {
+		"node": "*"
+	},
+	"directories" : {
+		"src" : "./src"
+	}
+}
